@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  background-color: #e3fdfd;
+}
+p {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  text-shadow: 0.5px 2px #f6f6f6;
+}
+h1{
+  margin: 7rem auto;
+  color: #005086;
+  font-weight: bolder;
+  font-size: 6rem;
+  font-family: 'Kristi', cursive;
+}
+hr {
+  background-color: black;
+  height: 0.2rem;
+  margin: 2.1rem auto;
+  border: black;
+  box-shadow: 2px 1px #d6e0f0;
+}
+footer {
+  margin: 5rem auto 3rem;
+}
+.container {
+  background-image: url("https://64.media.tumblr.com/52d464e3a94cf5306a521d6816da60bd/tumblr_pvqcaeOfwk1rz948yo4_540.gifv");
+  background-size: cover;
+  opacity: 0.5;
+  padding: 3rem;
+}
+.strings {
+  background-color: #903749;
+  border-radius: 20px 20px 20px;
+  box-shadow: 5px 5px #e97171;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  opacity: 0.8;
+  margin-bottom: 1rem;
+}
+.bottom {
+  padding-top: 15rem;
+  padding-bottom: 20rem;
+  background-image: url("https://64.media.tumblr.com/0ce9c9334b83a271af9762f5f1f9f732/tumblr_pviy9kGqIZ1rz948yo5_540.gifv");
+  background-size: cover;
+  opacity: 0.6;
+}
+.clicked {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+ hr:active {
+   background-color: grey;
+ }
